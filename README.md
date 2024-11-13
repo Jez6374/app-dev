@@ -1,6 +1,6 @@
 # Mission: Impossible – Dead Reckoning Part One
 
-![Movie Poster]([URL-to-movie-poster](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpKPFCRbE0gX1Rtc-DpZtN0b2u9jvUZQSFbT6RIHgwOL1RLlJT))
+![Movie Poster](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpKPFCRbE0gX1Rtc-DpZtN0b2u9jvUZQSFbT6RIHgwOL1RLlJT)
 
 **Release Year:** 2023  
 **Duration:** 2h 43m 
